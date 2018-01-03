@@ -10,3 +10,17 @@ int main(){
 	cout << "MATRIX X :"<<endl;
 	int kuda1=0;
 	do{
+		cout << a1c[kuda1]<<" | ";
+		kuda1++;
+	}while(kuda1<5);cout<<endl;
+	int kuda2=0;
+	do{
+		cout << a2c[kuda2]<<" | ";
+		kuda2++;
+	}while(kuda2<5);cout<<endl;
+		int kuda3=0;
+	do{
+		cout << a3c[kuda3]<<" | ";
+		kuda3++;
+	}while(kuda3<5);cout<<endl;
+	//r
